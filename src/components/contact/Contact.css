@@ -1,0 +1,29 @@
+.contact-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 40px;
+  background-color: #844691;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.contact-container h1 {
+  font-weight: 700;
+  color: #FFF;
+  margin-bottom: 20px;
+  font-size: 1.5rem;
+}
+
+ Form {
+  font-weight: 400;
+  font-size: 1rem;
+  color: #FFF;
+}
+
+.contact-form {
+  width: 100%;
+  max-width: 600px;
+}
+

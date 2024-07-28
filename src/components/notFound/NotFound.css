@@ -1,0 +1,27 @@
+.notfound-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+  background-color: #844691;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.notfound-container h1 {
+  font-weight: 600;
+  color: #FFF;
+  margin-bottom: 20px;
+  font-size: 2rem;
+}
+
+.notfound-container p {
+  font-weight: 400;
+  font-size: 1rem;
+  color: #FFF;
+}
+
+.btn-not {
+  width: 20%;
+}
